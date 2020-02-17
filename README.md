@@ -1,2 +1,5 @@
 # practice
-# leif wrote this
+<?php
+echo "it's gamer time";
+?>
+
